@@ -1,3 +1,6 @@
+# bank.py
+# This program requests the user to input two separate coin amounts and calculates how much that equates to when combined. 
+# Author: Paul Callaghan 
 import decimal
 import math
 

@@ -1,9 +1,12 @@
+# addOne.py
+# This program requests the user enter their fake account number. I have assumed that accounts must be a minimum of 6 digits. 
+# Author: Paul Callaghan 
 while True:
     acc_num = input("Enter your account number: ")
-    if len(acc_num) >=4:
+    if len(acc_num) >=6:
         break
     else:
-        #Assuming that an account number must be a minimum of 8 characters due to current banking convention
+        #Assuming that an account number must be a minimum of 6 characters due to personal experience working in banking
         print("Your account number should be a minimum of 8 characters")
 
 
