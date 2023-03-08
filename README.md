@@ -12,5 +12,13 @@ This program requests the user enter their fake account number. I have assumed t
 Used https://www.sanfoundry.com/python-program-test-collatz-conjecture-given-number/ to inform how to solve this task.
 This program takes user input (a positive int) and outputs successive values.
 
-##Task 5
-Used https://stackoverflow.com/a/29384769/20182382 to help solve this. 
+##Task 5 - weekday.py
+Used https://stackoverflow.com/a/29384769/20182382 to help solve this.
+
+##Task 6 - squareroot.py
+This program calcualtes the square root of an integer by using the Newton Square Root Formula and is based on the article found here -
+https://tutorialsinhand.com/Articles/python-program-to-find-square-root-of-a-number-using-newton-square-root-formula.aspx#:~:text=If%20a%20given%20number%20is,correct%20square%20root%20of%20N.
+while also learning from https://stackoverflow.com/questions/55232484/newtons-method-for-approximating-square-roots and  
+https://thirumalai2024.medium.com/python-program-to-find-square-root-of-the-number-using-newtons-method-937c0e732756
+This was a task I found much more difficult than the previous ones as the previous ones I could have a good solo attempt at due to previous
+projects I have done on Python for work.
