@@ -22,3 +22,7 @@ while also learning from https://stackoverflow.com/questions/55232484/newtons-me
 https://thirumalai2024.medium.com/python-program-to-find-square-root-of-the-number-using-newtons-method-937c0e732756
 This was a task I found much more difficult than the previous ones as the previous ones I could have a good solo attempt at due to previous
 projects I have done on Python for work.
+
+## Task 7 - es.py
+This task initially threw me as I would normally associate tasks like these with Pandas as I would use it from reading CSV files from webscrapers I have built using Selenium. I selected Othello as it was the first book that jumped out at me from Project Gutenburg as it was my Leaving Cert Shakespearean text. 
+I followed instructions from https://www.geeksforgeeks.org/count-the-number-of-times-a-letter-appears-in-a-text-file-in-python/ to assist with completing this task. 
