@@ -24,5 +24,5 @@ This was a task I found much more difficult than the previous ones as the previo
 projects I have done on Python for work.
 
 ## Task 7 - es.py
-This task initially threw me as I would normally associate tasks like these with Pandas as I would use it from reading CSV files from webscrapers I have built using Selenium. I selected Othello as it was the first book that jumped out at me from Project Gutenburg as it was my Leaving Cert Shakespearean text. 
-I followed instructions from https://www.geeksforgeeks.org/count-the-number-of-times-a-letter-appears-in-a-text-file-in-python/ to assist with completing this task. 
+This task initially threw me as I would normally associate tasks like these with Pandas as I would use it from reading CSV files from webscrapers I have built using Selenium. I selected Shakespeare texts as he was the first author that jumped out at me from Project Gutenburg however I have added those files to the .gitignore file as I was unsure if they were necessary for the upload of the task. I initially misread this task and provided a specific text but after re-reading the task, I saw the mention of a command line argument. 
+I followed instructions from https://www.geeksforgeeks.org/count-the-number-of-times-a-letter-appears-in-a-text-file-in-python/ to assist with completing the letter count aspect of this task however the menu was like one I had been working on recently for work where I am creating a command line menu in Python for the accounts department to select which payroll files they download via an API call. 
